@@ -26,7 +26,7 @@ title:  Contacts
   Plymouth, IN 46563<br/>
   (574) 936-7885<br/>
   
-  <h5> class="subheader">St Thomas (Main Office for Starke County)</h5>
+  <h5 class="subheader">St Thomas (Main Office for Starke County)</h5>
   401 E. Washington Street<br/>
   Knox, IN  46534<br/>
   (574) 772-2347<br/>
