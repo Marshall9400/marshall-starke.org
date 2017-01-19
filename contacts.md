@@ -21,15 +21,15 @@ title:  Contacts
 </div>
 <div class="six columns">
   <h3>Children's Program Locations</h3>
-  <h5 class="subheader">Kaleidsocope Children's Center (Main office for Marshall County)</h5>
+  <h5 class="subheader">Kaleidsocope Children's Center (Main Office for Marshall County)</h5>
   1901 PIDCO Drive<br/>
   Plymouth, IN 46563<br/>
   (574) 936-7885<br/>
 
-  <h5 class="subheader">Bremen Elementary School (Main office for Starke County)</h5>
+  <h5 class="subheader">Bremen Elementary School (Head Start Classroom)</h5>
   700 W. South Street <br/>
   Bremen, IN  46506<br/>
-  (574) 546-3554<br/>
+  (574) 546-3554 (School Phone)<br/>
 
   <h5 class="subheader">Culver Elementary School (Head Start Classroom)</h5>
   401 N. School St.<br/>
