@@ -25,6 +25,11 @@ title:  Contacts
   1901 PIDCO Drive<br/>
   Plymouth, IN 46563<br/>
   (574) 936-7885<br/>
+  
+  <h5> class="subheader">St Thomas (Main Office for Starke County)</h5>
+  401 E. Washington Street<br/>
+  Knox, IN  46534<br/>
+  (574) 772-2347<br/>
 
   <h5 class="subheader">Bremen Elementary School (Head Start Classroom)</h5>
   700 W. South Street <br/>
@@ -36,7 +41,7 @@ title:  Contacts
   Culver, IN 46511<br/>
   (574) 842-3389 (School Phone)<br/>
 
-  <h5 class="subheader">North Judson Elementary School(Head Start Classroom)</h5>
+  <h5 class="subheader">North Judson Elementary School (Head Start Classroom)</h5>
   809 W. Talmer Avenue<br/>
   North Judson, IN  46366<br/>
   (574) 896-2128 (School Phone)<br/>
