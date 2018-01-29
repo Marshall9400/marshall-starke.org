@@ -33,5 +33,6 @@ title:  Board & Management
     <li>Dan Haenes, Vice President/C.F.O.</li>
     <li>Jane Pollitt, Vice President Children's Programs</li>
     <li>Pam Landesman, Vice President Adult Programs</li>
+  <li>Sandy Olejniczak, Vice President Residential</li>
   </ul>
 </div>
