@@ -13,13 +13,13 @@ title:  Board & Management
     <li>John Oliver, Chairman</li>
     <li>Adam Lukenbill, Vice Chairman</li>
     <li>Beth Sawyer, Treasurer</li>
-    <li>Terry Moore, Secretary</li>
+    <li>Erika Leman, Secretary</li>
 
-    <li>James Cheesman</li>
     <li>Nelson Chipman</li>
-    <li>David Pearman</li>
     <li>Amy Morris-Dodson</li>
-    <li>Erika Leman</li>
+    <li>Melinda Straeter</li>
+    <li>Joe Hunting</li>
+    <li>Bill Dulin</li>
     <li>Emily King</li>
     <li>Nancy Dembowski</li>
     <li>Joan Haugh Beatty</li>
