@@ -14,7 +14,6 @@ title:  Board & Management
     <li>Adam Lukenbill, Vice Chairman</li>
     <li>Beth Sawyer, Treasurer</li>
     <li>Erika Leman, Secretary</li>
-
     <li>Nelson Chipman</li>
     <li>Amy Morris-Dodson</li>
     <li>Melinda Straeter</li>
